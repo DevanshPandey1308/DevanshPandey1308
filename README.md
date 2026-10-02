@@ -1,18 +1,89 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>- 🔭 I'm currently working on Data Analytics, Machine Learning, and Data Science projects.<br>- 🤝 I'm looking to collaborate on Open Source, Data Science, Machine Learning, and Python projects.<br>- 🫱 I'm looking for help with MLOps, model deployment, and scalable ML systems.<br>- 🌱 I'm currently learning Machine Learning, Deep Learning, Statistics, and FastAPI.<br>- 💬 Ask me about Python, SQL, Data Analysis, Power BI, Machine Learning, Pandas, NumPy, and Data Structures & Algorithms.<br>- ⚡ Fun fact: I enjoy transforming raw datasets into meaningful insights through analysis, visualization, and predictive models.
+<h1 align="center">Hi, I'm Devansh Pandey</h1>
 
+<p align="center">
+  <b>AI &amp; Data Science Engineering Student · Aspiring AI Full Stack Developer</b><br>
+  Pune, India
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devansh__.p) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Devansh Pandey) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devanshp171@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=DevanshPandey1308&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=DevanshPandey1308&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=DevanshPandey1308&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/devansh-pandey-69b5852a5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:devanshp171@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=DevanshPandey1308&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+I build production-minded AI systems: backends that are tested, containerized, and evaluated honestly, not just notebooks that predict something.
+
+My work so far sits at the intersection of machine learning and backend engineering: monitoring models for data drift, and building decision systems with leakage-aware, time-respecting evaluation. I am now extending that foundation toward **full-stack AI applications** with LLMs, retrieval, and agentic workflows.
+
+**Open to:** AI full-stack / software engineering roles and internships.
+
+---
+
+## Featured Projects
+
+### [ShiftIQ](https://github.com/DevanshPandey1308/ShiftIQ)
+Data drift detection and monitoring platform for ML systems.
+`Python` `FastAPI` `PostgreSQL` `Alembic`
+
+### [ChurnGuard](https://github.com/DevanshPandey1308/ChurnGuard)
+Predicts 90-day e-commerce customer churn and future customer value using leakage-aware features and chronological evaluation. Includes interpretable baselines, LightGBM, model explanations, experiment tracking, and a Dockerized FastAPI service with CI.
+`Python` `LightGBM` `FastAPI` `Docker` `GitHub Actions`
+
+### [Vehicle Sales Dashboard](https://github.com/DevanshPandey1308/Vehicle_Sales_Dashboard)
+Power BI dashboard covering revenue, top products, customer trends, and regional performance.
+`Power BI`
+
+*I also keep small Python automation projects, such as [rain alerts](https://github.com/DevanshPandey1308/rain_alert_system) and [stock news alerts](https://github.com/DevanshPandey1308/stock_news_analysis), in my repositories.*
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Backend and Frontend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Machine Learning and Data**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-2E8B57?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**Tools and DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Currently Learning
+
+- LLM application engineering: structured outputs, tool calling, streaming
+- Retrieval-Augmented Generation (RAG): hybrid search, reranking, retrieval evaluation
+- Agentic workflows with human-in-the-loop approval
+- Building full-stack AI products with React and TypeScript
+
+---
+
+## Get in Touch
+
+I'm happy to talk about AI systems, backend engineering, and evaluation of ML systems.
+Reach me on [LinkedIn](https://www.linkedin.com/in/devansh-pandey-69b5852a5/) or at [devanshp171@gmail.com](mailto:devanshp171@gmail.com).
